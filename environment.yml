@@ -3,7 +3,7 @@ channels:
   - https://repo.mamba.pm/emscripten-forge
 dependencies:
   - xeus-python
-  - numpy
+  - numpy < 2
   - pandas
   - matplotlib
   - ipywidgets
