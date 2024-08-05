@@ -1,0 +1,132 @@
+{
+    "columns":[
+        {
+            "name": "id",
+            "description": "Unique ID"
+        },
+        {
+            "name": "diagnosis",
+            "description": "Target: M - Malignant B - Benign"
+        },
+        {
+            "name": "radius_mean",
+            "description": "Radius of Lobes"
+        },
+        {
+            "name": "texture_mean",
+            "description": "Mean of Surface Texture"
+        },
+        {
+            "name": "perimeter_mean",
+            "description": "Outer Perimeter of Lobes"
+        },
+        {
+            "name": "area_mean",
+            "description": "Mean Area of Lobes"
+        },
+        {
+            "name": "smoothness_mean",
+            "description": "Mean of Smoothness Levels"
+        },
+        {
+            "name": "compactness_mean",
+            "description": "Mean of Compactness"
+        },
+        {
+            "name": "concavity_mean",
+            "description": "Mean of Concavity"
+        },
+        {
+            "name": "concave points_mean",
+            "description": "Mean of Cocave Points"
+        },
+        {
+            "name": "symmetry_mean",
+            "description": "Mean of Symmetry"
+        },
+        {
+            "name": "fractal_dimension_mean",
+            "description": "Mean of Fractal Dimension"
+        },
+        {
+            "name": "radius_se",
+            "description": "SE of Radius"
+        },
+        {
+            "name": "texture_se",
+            "description": "SE of Texture"
+        },
+        {
+            "name": "perimeter_se",
+            "description": "Perimeter of SE"
+        },
+        {
+            "name": "area_se",
+            "description": "Are of SE"
+        },
+        {
+            "name": "smoothness_se",
+            "description": "SE of Smoothness"
+        },
+        {
+            "name": "compactness_se",
+            "description": "SE of compactness"
+        },
+        {
+            "name": "concavity_se",
+            "description": "SEE of concavity"
+        },
+        {
+            "name": "concave points_se",
+            "description": "SE of concave points"
+        },
+        {
+            "name": "symmetry_se",
+            "description": "SE of Symmetry"
+        },
+        {
+            "name": "fractal_dimension_se",
+            "description": "SE of Fractal Dimension"
+        },
+        {
+            "name": "radius_worst",
+            "description": "Worst Radius"
+        },
+        {
+            "name": "texture_worst",
+            "description": "Worst Texture"
+        },
+        {
+            "name": "perimeter_worst",
+            "description": "Worst Perimeter"
+        },
+        {
+            "name": "area_worst",
+            "description": "Worst Area"
+        },
+        {
+            "name": "smoothness_worst",
+            "description": "Worst Smoothness"
+        },
+        {
+            "name": "compactness_worst",
+            "description": "Worst Compactness"
+        },
+        {
+            "name": "concavity_worst",
+            "description": "Worst Concavity"
+        },
+        {
+            "name": "concave points_worst",
+            "description": "Worst Cocave Points"
+        },
+        {
+            "name": "symmetry_worst",
+            "description": "Worst Symmetry"
+        },
+        {
+            "name": "fractal_dimension_worst",
+            "description": "Worst Fractal Dimension"
+        }
+    ]
+}
